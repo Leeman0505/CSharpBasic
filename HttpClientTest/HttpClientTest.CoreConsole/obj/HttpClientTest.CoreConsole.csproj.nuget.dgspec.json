@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leeman/Documents/Leeman/Depository/NetCore/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj": {}
+    "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj": {}
   },
   "projects": {
-    "/Users/leeman/Documents/Leeman/Depository/NetCore/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj": {
+    "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leeman/Documents/Leeman/Depository/NetCore/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj",
+        "projectUniqueName": "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj",
         "projectName": "HttpClientTest.CoreConsole",
-        "projectPath": "/Users/leeman/Documents/Leeman/Depository/NetCore/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj",
+        "projectPath": "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj",
         "packagesPath": "/Users/leeman/.nuget/packages/",
-        "outputPath": "/Users/leeman/Documents/Leeman/Depository/NetCore/HttpClientTest/HttpClientTest.CoreConsole/obj/",
+        "outputPath": "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leeman/.nuget/NuGet/NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/leeman/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
