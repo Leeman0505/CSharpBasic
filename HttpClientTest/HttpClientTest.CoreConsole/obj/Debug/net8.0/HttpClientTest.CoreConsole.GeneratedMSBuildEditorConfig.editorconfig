@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HttpClientTest.CoreConsole
-build_property.ProjectDir = /Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/
+build_property.ProjectDir = E:\Leeman\GithubDepository\CSharpBasic\HttpClientTest\HttpClientTest.CoreConsole\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PoiGUluUEWs=",
+  "dgSpecHash": "BvBt9kRQOVY=",
   "success": true,
-  "projectFilePath": "/Users/leeman/Library/Mobile Documents/com~apple~CloudDocs/Documents/GithubDepository/CSharpBasic/HttpClientTest/HttpClientTest.CoreConsole/HttpClientTest.CoreConsole.csproj",
+  "projectFilePath": "E:\\Leeman\\GithubDepository\\CSharpBasic\\HttpClientTest\\HttpClientTest.CoreConsole\\HttpClientTest.CoreConsole.csproj",
   "expectedPackageFiles": [
-    "/Users/leeman/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
