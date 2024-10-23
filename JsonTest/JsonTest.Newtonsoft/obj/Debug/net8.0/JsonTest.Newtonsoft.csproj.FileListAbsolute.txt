@@ -1,0 +1,17 @@
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/JsonTest.Newtonsoft
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/JsonTest.Newtonsoft.deps.json
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/JsonTest.Newtonsoft.runtimeconfig.json
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/JsonTest.Newtonsoft.dll
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/JsonTest.Newtonsoft.pdb
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.csproj.AssemblyReference.cache
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.AssemblyInfoInputs.cache
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.AssemblyInfo.cs
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.csproj.CoreCompileInputs.cache
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.EDEEB982.Up2Date
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.dll
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/refint/JsonTest.Newtonsoft.dll
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.pdb
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/JsonTest.Newtonsoft.genruntimeconfig.cache
+/Users/leeman/Documents/Leeman/Depository/JsonTest/JsonTest.Newtonsoft/obj/Debug/net8.0/ref/JsonTest.Newtonsoft.dll
